@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidChess50</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="toggle_sort">Toggle Sort</string>
+
+    <string-array name="choices">
+        <item>Queen</item>
+        <item>Knight</item>
+        <item>Bishop</item>
+        <item>Rook</item>
+    </string-array>
+</resources>
